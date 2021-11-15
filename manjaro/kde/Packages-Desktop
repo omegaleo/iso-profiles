@@ -66,8 +66,16 @@ terminus-font
 >extra ttf-liberation
 >extra ttf-droid
 
+## Wine
+>basic wine-staging
+>basic wine-gecko
+>basic wine-mono
+>basic winetricks
+>basic playonlinux
+
 ## Games
->x86_64 >extra steam-manjaro
+>x86_64 >basic steam-manjaro
+>basic lutris
 
 ## Package management
 >extra appimagelauncher
